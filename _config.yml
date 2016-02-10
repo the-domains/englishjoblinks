@@ -2,6 +2,7 @@ name: EnglishJobLinks
 favicon: null
 layout_spectrum: 0.25442
 typography_spectrum: 0.50589
+title: EnglishJobLinks
 cta:
   domain: null
   bucket: null
