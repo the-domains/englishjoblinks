@@ -4,8 +4,14 @@
         <description><![CDATA[EnglishJobLinks]]></description>
         <link>https://thegrid.ai/englishjoblinks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 01:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 01:42:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/englishjoblinks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/englishjoblinks/d72710fb-d7ea-4edb-b52a-6a70faab0377/index.html</link>
+            <guid isPermaLink="false">d72710fb-d7ea-4edb-b52a-6a70faab0377</guid>
+            <pubDate>Sun, 21 Feb 2016 01:42:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We are looking for two native English teachers for our English Academy and Kindergarten in Apgujeong, at Sinsa Dong 649-4. One position is a standard English Teacher role, and one position is a more specialized Science Teacher. We are looking for Bill Nye-level of enthusiasm for the subject, and preferably a degree in a natural science field, but extensive knowledge of the subject could suffice (these are smart kids who will call you on your BS :)</p>]]></description>
@@ -68,13 +74,6 @@
             <link>https://thegrid.ai/englishjoblinks/5c0170a1-fc16-448d-a861-0cabb14bd3b4/index.html</link>
             <guid isPermaLink="false">5c0170a1-fc16-448d-a861-0cabb14bd3b4</guid>
             <pubDate>Thu, 11 Feb 2016 03:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Teach in Turkey</p>]]></description>
-            <link>https://thegrid.ai/englishjoblinks/72ac4eec-a6b5-4465-b5af-f35c7a5c56a2/index.html</link>
-            <guid isPermaLink="false">72ac4eec-a6b5-4465-b5af-f35c7a5c56a2</guid>
-            <pubDate>Wed, 10 Feb 2016 18:21:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
