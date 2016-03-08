@@ -4,8 +4,16 @@
         <description><![CDATA[EnglishJobLinks]]></description>
         <link>https://thegrid.ai/englishjoblinks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 14:56:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 14:56:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/englishjoblinks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>International Admissions Counselor - Beijing, 
+China</p>]]></description>
+            <link>https://thegrid.ai/englishjoblinks/4c6bf7ff-82dd-4db1-b9aa-8d0d8ca27edb/index.html</link>
+            <guid isPermaLink="false">4c6bf7ff-82dd-4db1-b9aa-8d0d8ca27edb</guid>
+            <pubDate>Tue, 08 Mar 2016 14:56:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>English Teacher wanted for Shanghai, Non-Profit - 250rmb per 
@@ -69,13 +77,6 @@ hour, part-time</p>]]></description>
             <link>https://thegrid.ai/englishjoblinks/3cfc05b5-3e6b-4d14-93cb-100ca482fa75/index.html</link>
             <guid isPermaLink="false">3cfc05b5-3e6b-4d14-93cb-100ca482fa75</guid>
             <pubDate>Mon, 22 Feb 2016 14:54:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Urgent- Foreign Teachers needed ASAP for full time teaching positions at E-connect in beautiful Hai Duong, Vietnam</p>]]></description>
-            <link>https://thegrid.ai/englishjoblinks/aa38fdc4-4d6b-4d48-9016-4a1bbcad581d/index.html</link>
-            <guid isPermaLink="false">aa38fdc4-4d6b-4d48-9016-4a1bbcad581d</guid>
-            <pubDate>Fri, 19 Feb 2016 14:48:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
