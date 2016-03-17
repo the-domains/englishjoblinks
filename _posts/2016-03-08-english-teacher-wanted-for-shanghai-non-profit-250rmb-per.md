@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "English Teacher wanted for Shanghai, Non-Profit - 250rmb per \nhour, part-time"
-datePublished: '2016-03-08T14:54:13.595Z'
-dateModified: '2016-03-08T14:53:52.454Z'
+datePublished: '2016-03-17T02:26:36.538Z'
+dateModified: '2016-03-08T14:54:17.479Z'
 title: ''
 author: []
 authors: []
@@ -138,8 +138,6 @@ and Hospitality English
 > \* Flexible 
 > 
 > Please email a resume and cover letter in English and Chinese to [recruitment@svgchina.com.cn][0]
-> 
-> .  
 
 
 
