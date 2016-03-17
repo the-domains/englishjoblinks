@@ -4,8 +4,15 @@
         <description><![CDATA[EnglishJobLinks]]></description>
         <link>https://thegrid.ai/englishjoblinks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 02:52:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 02:52:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/englishjoblinks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello.</p>]]></description>
+            <link>https://thegrid.ai/englishjoblinks/f0ea979c-3558-4538-8e56-9213322a4cc6/index.html</link>
+            <guid isPermaLink="false">f0ea979c-3558-4538-8e56-9213322a4cc6</guid>
+            <pubDate>Thu, 17 Mar 2016 02:52:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Native Teacher Needed]]></title>
             <description><![CDATA[<article><h1>Native Teacher Needed</h1><p>Full Time Native Teacher EF English First Makassar & Manado, Indonesia</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/englishjoblinks/esl-instructors-needed-for-english-immersion-academy-in-seou/index.html</link>
             <guid isPermaLink="false">c406c8a0-abf3-4591-abdc-4992da151ca4</guid>
             <pubDate>Thu, 17 Mar 2016 02:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seeking Certified Teachers in All Subjects in Detroit, MI, US]]></title>
-            <description><![CDATA[<article><h1>Seeking Certified Teachers in All Subjects in Detroit, MI, US</h1><p>The Education Achievement Authority (EAA) of Michigan is seeking certified teachers in all subjects who are driven to make a difference for Detroit students. We are especially looking for teachers of Spanish, French, and Chinese.</p></article>]]></description>
-            <link>https://thegrid.ai/englishjoblinks/seeking-certified-teachers-in-all-subjects-in-detroit-mi-u/index.html</link>
-            <guid isPermaLink="false">4555dd08-21ac-42c4-9a3c-0e0a153bf812</guid>
-            <pubDate>Thu, 17 Mar 2016 02:40:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
