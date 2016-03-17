@@ -6,34 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-17T02:42:00.111Z'
-dateModified: '2016-03-17T02:41:59.803Z'
+datePublished: '2016-03-17T03:06:44.214Z'
+dateModified: '2016-03-17T03:06:24.751Z'
 title: 'Work for a Well-paid Canadian Owned School in Cities throughout China? Over Fifteen Years in Operation! Good Locations!'
+author: []
+sourcePath: _posts/2016-03-17-work-for-a-well-paid-canadian-owned-school-in-cities-through.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-03-17-work-for-a-well-paid-canadian-owned-school-in-cities-through.md
-published: true
 url: work-for-a-well-paid-canadian-owned-school-in-cities-through/index.html
 _type: Article
 
 ---
-### \*\*WARNING: Avoid scams by NEVER paying fees for a teaching position and stay far away if payment is requested (especially Western Union) \*\*\*
-
 **Work for a Well-paid Canadian Owned School in Cities throughout China? Over Fifteen Years in Operation! Good Locations!**
 
-**Posted By:**
-
-**Rockies English School**
-
-**<\>[rockiescc@163.com][0]  
-Date: Wednesday, 16 March 2016, at 1:11 p.m.</\>**
-
-> ￼To cope with Rockies English School's expanding needs, we are recruiting teachers starting in cities throughout China. If you are interested, you can email our recruitment office at:[rockiescc@163.com][1]. We are not an agent or intermediary, and the locations that we recruit for are either directly owned or partnered schools that use the Rockies designated curriculum. We have recruited more than 1000 teachers in the last 15 years. We can provide teacher references to prospective teachers. Rockies English School is founded by Canadians and currently operates different locations throughout China. Our vision is to set the highest quality English training standards for Chinese students. We are looking for responsible, dedicated, energetic, and creative people who feel they can contribute to raising educational standards in ESL learning.
+> ￼To cope with Rockies English School's expanding needs, we are recruiting teachers starting in cities throughout China. If you are interested, you can email our recruitment office at:[rockiescc@163.com][0]. We are not an agent or intermediary, and the locations that we recruit for are either directly owned or partnered schools that use the Rockies designated curriculum. We have recruited more than 1000 teachers in the last 15 years. We can provide teacher references to prospective teachers. Rockies English School is founded by Canadians and currently operates different locations throughout China. Our vision is to set the highest quality English training standards for Chinese students. We are looking for responsible, dedicated, energetic, and creative people who feel they can contribute to raising educational standards in ESL learning.
 > 
 > Rockies English School is:  
 > 1\. A Canadian owned school with managers who understand the needs of foreigners and who respect the integrity of contracts  
@@ -61,7 +52,7 @@ Date: Wednesday, 16 March 2016, at 1:11 p.m.</\>**
 > 
 > Contract conditions:  
 > 
-> 1\. Teaching conditions vary depending on locations but the general terms below apply: Medical insurance: Yes Paid holiday: Yes Visa: Yes End of contract bonus / airfare stipend: Yes Salary\*\*: 10000-15000 RMB (\*\*Salary varies depending on teaching experience, hours of work per week, and qualifications) Alternatively, teachers who prefer to be paid on an hourly basis as a part-time teacher may also contact the central office at[rockiescc@163.com][1]
+> 1\. Teaching conditions vary depending on locations but the general terms below apply: Medical insurance: Yes Paid holiday: Yes Visa: Yes End of contract bonus / airfare stipend: Yes Salary\*\*: 10000-15000 RMB (\*\*Salary varies depending on teaching experience, hours of work per week, and qualifications) Alternatively, teachers who prefer to be paid on an hourly basis as a part-time teacher may also contact the central office at[rockiescc@163.com][0]
 > 
 > .  
 > 
@@ -72,10 +63,7 @@ Date: Wednesday, 16 March 2016, at 1:11 p.m.</\>**
 > 4\. Free internet access and Chinese classes provided to all our teachers.  
 > 
 > If you are interested in a teaching position with Rockies English School, please forward to us your resume on real text format or Word file. Also, forward a picture if you can.
-> 
-> 
 
 
 
-[0]: mailto:rockiescc@163.com?subject=Work%20for%20a%20Well-paid%20Canadian%20Owned%20School%20in%20Cities%20throughout%20China?%20Over%20Fifteen%20Years%20in%20Operation!%20Good%20Locations!
-[1]: mailto:rockiescc@163.com
+[0]: mailto:rockiescc@163.com
